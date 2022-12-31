@@ -1,2 +1,4 @@
-# D-veloppeur-Full-Stack---Java-et-Angular
+# Développeur Full-Stack : Java et Angular
 Formation de spécialisation aux languages Java et Angular 
+
+Niveau BAC+5 
