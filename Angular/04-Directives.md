@@ -27,10 +27,12 @@ Le DOM montre à travers un commentaire que la directive ngIf ici n'a pas affich
 
 
 ***ngFor**
+
 À partir d'un tableau on peut utiliser la directive ngFor sur un élément du dom pour rendre l'affichage plus dynamique et léger. 
 
 ```
 <app-face-snap *ngFor="let faceSnapElementInArray of faceSnaps" [faceSnap]="faceSnapElementInArray"></app-face-snap>
 ```
 
+***ngStyle**
 
