@@ -1,3 +1,6 @@
+
+# Les variables 
+
 Une déclaration de variable est composée de trois éléments : type, nom, et valeur.
 
 ```
