@@ -1,14 +1,16 @@
-nombre entiers (mot-clé int ) ;
+# Les types
 
-nombres décimaux (mots clés float et double ) ;
+- nombre entiers (mot-clé int ) ;
 
-booléens (mot-clé boolean ).
+- nombres décimaux (mots clés float et double ) ;
 
-chaînes de caractères (mot clé String ).
+- booléens (mot-clé boolean ).
 
-vous pouvez effectuer des opérations numériques sur des nombres du même type ;
+- chaînes de caractères (mot clé String ).
 
-pour utiliser ensemble des nombres de types différents dans les opérations, utilisez `cast` pour qu'ils se comportent comme le type nécessaire ;
+Vous pouvez effectuer des opérations numériques sur des nombres du même type ;
+
+Pour utiliser ensemble des nombres de types différents dans les opérations, utilisez `cast` pour qu'ils se comportent comme le type nécessaire ;
 
 ```
 public class monProgramme {
@@ -27,4 +29,4 @@ public class monProgramme {
 
 ```
 
-les Strings peuvent être mis bout à bout. Cela s'appelle la concaténation.
+Les Strings peuvent être mis bout à bout. Cela s'appelle la concaténation.
