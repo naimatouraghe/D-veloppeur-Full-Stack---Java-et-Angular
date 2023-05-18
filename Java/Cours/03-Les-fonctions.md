@@ -1,3 +1,5 @@
+# Les fonctions 
+
 Les programmes Java sont structurés en packages et en classes.
 
 Aucun code n'est écrit en dehors d'une classe, ce qui signifie que toutes les fonctions sont des méthodes en Java.
